@@ -152,7 +152,6 @@ p{
 }
 .skill{
     display: flex;
-    align-items: center;
     width: 100%;
 }
 .skill:not(:nth-last-child(-n+2)){
